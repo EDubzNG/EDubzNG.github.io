@@ -1,9 +1,23 @@
 body
 {
     background-color: rgb(3, 3, 54);
+    font-family: 'Trebuchet MS', 'sans-serif';
 }
 .title
 {
     color: white;
     text-align: center;
+}
+.text
+{
+    color: white;
+    text-align: center;
+}
+a:Hover
+{
+    color: rgb(226, 100, 188);
+}
+a
+{
+    color: rgb(195, 0, 255);
 }
